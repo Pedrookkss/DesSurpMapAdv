@@ -1,4 +1,4 @@
-let timePokemon =[
+let timePokemon = [
     ["Pikachu", " Lv2"],
     ["Charmander", " Lv2"]
 ]
@@ -10,9 +10,9 @@ let slot = 2
 
 switch(slot){
 case 1:
-console.log(pikachu +" cadastrado com sucesso!")
+console.log(pikachu + " cadastrado com sucesso!")
 break
 case 2:
-console.log(charmander +" cadastrado com sucesso!")
+console.log(charmander + " cadastrado com sucesso!")
 break
 }
